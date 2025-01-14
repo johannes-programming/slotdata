@@ -1,0 +1,34 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = [
+    "setuptools>=61.0",
+]
+
+[project]
+authors = [
+    { email = "johannes-programming@mailfence.com", name = "Johannes" },
+]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+]
+dependencies = []
+description = "slotdata"
+keywords = []
+name = "slotdata"
+readme = "README.rst"
+requires-python = ">=3.12.7"
+version = "0.0.0.dev0"
+
+[project.license]
+file = "LICENSE.txt"
+
+[project.urls]
+Download = "https://pypi.org/project/slotdata/#files"
+Index = "https://pypi.org/project/slotdata/"
+Source = "https://github.com/johannes-programming/slotdata/"
