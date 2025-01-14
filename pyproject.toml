@@ -9,7 +9,7 @@ authors = [
     { email = "johannes-programming@mailfence.com", name = "Johannes" },
 ]
 classifiers = [
-    "Development Status :: 1 - Planning",
+    "Development Status :: 2 - Pre-Alpha",
     "License :: OSI Approved :: MIT License",
     "Natural Language :: English",
     "Operating System :: OS Independent",
@@ -18,12 +18,12 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
 ]
 dependencies = []
-description = "slotdata"
+description = "This project provides implementations of magic methods for __slots__ based classes."
 keywords = []
 name = "slotdata"
 readme = "README.rst"
 requires-python = ">=3.12.7"
-version = "0.0.0.dev0"
+version = "0.0.1.dev0"
 
 [project.license]
 file = "LICENSE.txt"
