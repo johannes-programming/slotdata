@@ -22,8 +22,8 @@ description = "This project provides implementations of magic methods for __slot
 keywords = []
 name = "slotdata"
 readme = "README.rst"
-requires-python = ">=3.12.7"
-version = "0.0.1.dev0"
+requires-python = ">=3.8"
+version = "0.0.1.dev1"
 
 [project.license]
 file = "LICENSE.txt"
@@ -32,3 +32,4 @@ file = "LICENSE.txt"
 Download = "https://pypi.org/project/slotdata/#files"
 Index = "https://pypi.org/project/slotdata/"
 Source = "https://github.com/johannes-programming/slotdata/"
+Website = "https://slotdata.johannes-programming.online/"
