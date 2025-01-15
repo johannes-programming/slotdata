@@ -1,6 +1,5 @@
-def main(args=None):
-    print("Hello World!")
-
+from slotdata.core import *
+from slotdata.tests import *
 
 if __name__ == "__main__":
     main()
